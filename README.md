@@ -2,6 +2,6 @@
 
 Bug Fixed LJ  Inventory
 
-# IInstallation
+# Installation
 
 rename ```lj-inventory-main``` to ```qb-inventory```
